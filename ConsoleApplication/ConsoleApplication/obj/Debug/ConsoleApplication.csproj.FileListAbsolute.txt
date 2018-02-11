@@ -1,0 +1,11 @@
+c:\users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\karti\onedrive\documents\visual studio 2015\Projects\ConsoleApplication\ConsoleApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
